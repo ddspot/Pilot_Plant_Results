@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "pilot_plant_results"
+version = "0.1.0"
+description = "Presentation of the final results obtained from the pilot plant"
+authors = ["Daneish Despot <dbdespot@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

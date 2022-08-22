@@ -1,0 +1,110 @@
+---
+title: "Mitigation Strategies for Odour and Corrosion in Sewer Systems"
+subtitle: "Pilot Plant Studies"
+author: "Daneish Despot"
+format:
+    revealjs: 
+        slide-number: true
+        chalkboard: true
+        buttons: false
+        preview-links: auto
+        logo: images/TU+sww.jpg
+        css: styles.css
+        footer: <https://www.siwawi.tu-berlin.de/>
+        theme: mytheme.scss
+resources:
+  - demo.pdf
+---
+
+## Contents
+
+-   Motivation
+-   
+
+
+
+::: notes
+-   the motivation of the pilot plant studies, why these investigations were made
+-   for the overview of the pilot plant operation, show the timeline of the sewer pilot plant operation and the
+-   motivation for my research - maybe consider adding 2-3 slides in this section
+:::
+
+## Research Overview
+
+something about the figure here ![](images/Fig%201-1_Thesis_structure.svg)
+
+## Supporting Pilot Plant Investigations
+
+-   Residence time distributions
+-   Sulphide build-up in the pressure sewer
+    -   Key parameters related to the sulphide formation
+    -   Impact of quiescent conditions
+-   Air flow in gravity sewers
+
+::: {.fragment}
+**Additional experiments**
+
+- Onsite sulphide measurements
+- Calibration of UV spectrometer (TriOS) for continuous monitoring of <span style="color: red">key parameters</span>
+- COD Fractionation- Wastewater biodegradbility
+:::
+
+## Focual Point: Mitigation Strategies for H<sub>2</sub>S
+- add a driagram giving an overiview of the countermeasures applied
+- for each countermeasurs applied., give the reason for its usage
+
+## Free Nitrous Acid
+
+:::{.callout-tip}
+## Publication 1
+
+![](images/FNA/publication.png){width=600 height="90"}
+:::
+
+::: footer
+More info: [FNA Publication](https://www.mdpi.com/2073-4441/13/8/1015)
+:::
+
+## Overview of the FNA trials {.smaller}
+
+|     Trial No.    |     FNA Dosed<br/>(mg-N L<sup>−1</sup>)    |     Exp *. (h)    |     Average Temperature    |     Pumping Schedule               |     Aim of the Trial                                     |
+|------------------|---------------------------------|-------------------|----------------------------|------------------------------------|----------------------------------------------------------|
+|     1            |     0.08                        |     12            |     16.8 °C                |     Normal, 7 min                  |     Low dosage and short     exposure time               |
+|     2            |     0.11                        |     12            |     17.6 °C                |     Normal, 7   min                |     Low   dosage and short     exposure time             |
+|     3            |     0.11                        |     5             |     16.0 °C                |     Normal, 7 min                  |     Very short exposure time                             |
+|     4            |     0.32                        |     12            |     18.3 °C                |     Normal, 7   min                |     Increased   concentration                            |
+|     5            |     0.56                        |     12            |     17.9 °C                |     Normal, 7 min                  |     Increased concentration                              |
+|     6            |     0.30                        |     12            |     16.3 °C                |     14 min,   every other cycle    |     Different   pumping schedule to increase exposure    |
+|     7            |     13.32                       |     24            |     14.4 °C                |     Normal, 7 min                  |     Further increased     concentration                  |
+|     8            |     0.79                        |     24            |     14.4 °C                |     14 min   every 3 h             |     Different   pumping schedule to increase exposure    |
+|     9            |     0.25                        |     24            |     9.6 °C                 |     3–4 min every hour             |     Different pumping   schedule to increase exposure    |
+
+## Research Objectives 
+
+- 
+
+
+## Experimental Setup {.smaller}
+::::{.columns}
+
+:::{.column width="65%"}
+![](images/FNA/FNA_pilot_plant_setup.svg)
+
+:::{.fragment}
+- Nitrite and HCL was dosed simultaneously
+- Dosage based on blah blach
+:::
+:::
+
+:::{.column width="35%"}
+![](images/FNA/Pump_schedule.svg)
+
+:::{.fragment}
+- Operation based on typical pressure main (intrermittent pumping)
+- 16 pumps/dosing events per day
+- Averaged residence time .... 
+:::
+
+:::
+
+::::

@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+
+// fonts
+
+// colors
+
+// headings
+$presentation-heading-color: #383d3d !default;
+$presentation-h1-font-size: 1.7em;
+$presentation-h2-font-size: 1.3em;
+$presentation-h3-font-size: 1.1em;
+$presentation-h4-font-size: 0.9em;
+$presentation-font-size-root: 30px;
+
+/*-- scss:rules --*/
+
+.reveal a {
+  line-height: 1.3em;
+}
