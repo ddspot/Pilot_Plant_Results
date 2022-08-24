@@ -12,15 +12,20 @@ format:
         css: styles.css
         footer: <https://www.siwawi.tu-berlin.de/>
         theme: mytheme.scss
+from: markdown+emoji
 resources:
   - demo.pdf
 ---
 
-## Contents
+## Housekeeping
 
--   Motivation
--   
-
+- Motivation :wave:
+- Research overview
+- Supporting Pilot Plant Investigations
+- Mitigation Strategies for H<sub>2</sub>S in Sewers
+- Some Background
+- Example Chemical Dosing Study
+- Marzahn and H<sub>2</sub>S Monitoring 
 
 
 ::: notes
@@ -29,41 +34,122 @@ resources:
 -   motivation for my research - maybe consider adding 2-3 slides in this section
 :::
 
-## Research Overview
+## Motivation: Save our Sewers from H<sub>2</sub>S
 
-something about the figure here ![](images/Fig%201-1_Thesis_structure.svg)
+- Sewer systems are a critical infrastructure asset
+  - Corrosion of concrete structures
+  - Odour nuisance 
+  - Health of utility workers
+- An increase in the severity of odour and corrosion problems worldwide 
+- Costly to repair corroded sewers and implement dosing stations :euro: :euro: :euro:
+- Necessity to prevent odour nuisance and safeguard workers from H<sub>2</sub>S
 
-## Supporting Pilot Plant Investigations
+:::{.callout-note}
+Cost-effective, climate-friendly strategies for H<sub>2</sub>S control
+:::
+  
+
+## Research Overview {.smaller}
+
+![](images/Fig%201-1_Thesis_structure.svg)
+
+ -  To investigate the intermittent application of a biological agent that deactivates(SRB) in sewer biofilms 
+ -  To optomise nitrate dosing  based on the dosing point location 
+ -  To evaluate online liquid- and gas-phase H<sub>2</sub>S sensors for improving the monitoring of mitigation strategies 
+
+
+## Supporting Pilot Plant Investigations {.smaller}
+::::{.columns}
+:::{.column width="50%"}
+<br>
 
 -   Residence time distributions
 -   Sulphide build-up in the pressure sewer
-    -   Key parameters related to the sulphide formation
-    -   Impact of quiescent conditions
+    -   Key parameters related to sulphide formation
+    -   Understanding the influence of quiescent conditions
 -   Air flow in gravity sewers
+
+<br>
+<br> 
 
 ::: {.fragment}
 **Additional experiments**
 
 - Onsite sulphide measurements
-- Calibration of UV spectrometer (TriOS) for continuous monitoring of <span style="color: red">key parameters</span>
-- COD Fractionation- Wastewater biodegradbility
+- Calibration UV spectrometer (TriOS) – Multivariate calibration procedures
+- Wastewater biodegradability – COD Fractions 
+:::
 :::
 
-## Focual Point: Mitigation Strategies for H<sub>2</sub>S
-- add a driagram giving an overiview of the countermeasures applied
-- for each countermeasurs applied., give the reason for its usage
+:::{.column width="50%"}
+![](images/Comparison_RT_FillLevels_flow_4.5.png)
 
-## Free Nitrous Acid
+:::{.fragment}
+![](images/190913HV2201_fractions_m.svg)
+:::
+:::
+::::
 
-:::{.callout-tip}
-## Publication 1
 
-![](images/FNA/publication.png){width=600 height="90"}
+## Focal Point: Mitigation Strategies for H<sub>2</sub>S in Sewers
+
+::::{.columns}
+
+:::{.column width="55%"}
+![](images/sulphide_mitigation_strategies.png)
+:::
+
+:::{.column width="45%"}
+:::{.fragment}
+- N-based salts
+  - Nitrite and Free Nitrous Acid  to examine their biocidal effects on SRB activity
+  - Calcium Nitrate vs Iron Nitrate
+  - Limited Downstream nitrate dosing 
+  - Impact of nitrate dosing on connecting gravity sewers 
+
+-  Optimising Upstream Ferrous Chloride Dosing 
+:::
+:::
+
+::::
+
+
+## Background: Sewer Sytems Components and Interfaces 
+
+![](images/Sewage%20collection%20system_v1.svg){.absolute top="45" left="50" width="70%"}
+
+:::{.fragment}
+![](images/Sewer_subsystems_interfaces.svg){.absolute bottom="0" left="50" width="80%"}
+:::
+
+
+## Background: Free Nitrous Acid
+
+::::{.columns}
+
+:::{.column width="50"}
+- FNA &rarr; produced from nitrite at acidic conditions (a weak monobasic acid)
+- Only reported studies in Austrialia and USA
+  - Strong biocidal effects &rarr; complete suppression sulphide and methane production
+  - Dosed in intervals e.g every 10 days
+  - Cheap alternative &rarr; 0.028€/m<sup>3</sup> - 0.34€/m<sup>3</sup>
+:::
+
+
+:::{.column width="45"}
+- Antimicrobial mechanisms of FNA treatment for sulphide control
+  - Inhibition of bacterial growth 
+  - Shut down of protein synthesis
+  - Oxidative stress 
+![](images/FNA_LIVE_DEAD.png)
 :::
 
 ::: footer
 More info: [FNA Publication](https://www.mdpi.com/2073-4441/13/8/1015)
 :::
+
+::::
+
 
 ## Overview of the FNA trials {.smaller}
 
@@ -79,32 +165,196 @@ More info: [FNA Publication](https://www.mdpi.com/2073-4441/13/8/1015)
 |     8            |     0.79                        |     24            |     14.4 °C                |     14 min   every 3 h             |     Different   pumping schedule to increase exposure    |
 |     9            |     0.25                        |     24            |     9.6 °C                 |     3–4 min every hour             |     Different pumping   schedule to increase exposure    |
 
-## Research Objectives 
-
-- 
-
+ 
 
 ## Experimental Setup {.smaller}
 ::::{.columns}
 
-:::{.column width="65%"}
+:::{.column width="55%"}
 ![](images/FNA/FNA_pilot_plant_setup.svg)
 
 :::{.fragment}
-- Nitrite and HCL was dosed simultaneously
-- Dosage based on blah blach
+- Nitrite and HCL was dosed simultaneously at the inlet
+- HCL demand based on acid capacity and titration curves
+  -  4.9 mmol L<sup>&minus;1</sup> H<sup>&plus;</sup> &rarr; pH of 6
+- Intermittent dosing
+
+```{=tex}
+\begin{equation}
+\mathrm{C}_{\mathrm{HNO}_{2}}=\frac{47 \mathrm{~g} / \mathrm{mol}}{14 \mathrm{~g} / \mathrm{mol}} \cdot \frac{\mathrm{C}_{\mathrm{NO}_{2}-\mathrm{N}}}{\mathrm{K}_{\mathrm{a}} \cdot 10^{\mathrm{pH}}} \text { with } \mathrm{K}_{\mathrm{a}}=\mathrm{e}^{-2300 /\left(273+\mathrm{T}\left({ }^{\circ} \mathrm{C}\right)\right)}
+\end{equation}
+
+```
 :::
 :::
 
-:::{.column width="35%"}
-![](images/FNA/Pump_schedule.svg)
+:::{.column width="45%"}
+:::{.fragment}
+![](images/pressure%20sewer.gif)
+:::
 
 :::{.fragment}
-- Operation based on typical pressure main (intrermittent pumping)
-- 16 pumps/dosing events per day
-- Averaged residence time .... 
+![](images/FNA/Pump_schedule.svg)
+:::
+
+:::{.fragment}
+::: {.absolute top="50%" left="78%"}
+::: {style="color: #cc0000"}
+Flow  rate: 4.5 m<sup>3</sup> h<sup>&minus;1</sup> &rarr; <br/> 0.16 ms<sup>&minus;1</sup>
+:::
+::: 
 :::
 
 :::
 
 ::::
+
+
+## Baseline Sulphide Monitoring
+![](images/FNA/baseline_summary_paper.svg)
+
+
+## An Example of FNA Dosing Event {transition="slide" transition-speed="slow" .smaller}
+::::{.columns}
+:::{.column width="65%"}
+![](images/FNA/trial5_normalized.svg)
+:::
+
+:::{.column width="35%"}
+<br>
+<br>
+
+- Dissolved sulphide <0.3 mg L<sup>&minus;1</sup> 
+- In some cases H<sub>2</sub>S in the gas phase > 5 ppm
+- Occurrence of heterotrophic denitrification
+  - increase pH
+  - reduction in nitrite concentration
+  - higher COD removal rates
+- sharp nitrite reduction and pH increase &rarr; lower FNA concentration
+:::
+::::
+
+::: notes
+This figure illustrates the H2S liquid and gas phase profiles of an FNA dosing trial. The red lines mark the start and stop of the FNA treatment. 
+- For some trials, it was found that h2s gas concentration exceeded 5 ppm even when the dissolved sulphide concentration was <0,3 mg/L. this is due to pH lowering during the dosing event, which enhances the mass transfer from the bulk wastewater to the sewer atmosphere &rarr; which can still contribute to H2S release during the treatment period 
+- Occurrence of heterotrophic denitrification (evidence based on reduction nitrite concentration, increase in ph (0,3 to 1,3) pH units and higher removal rates of COD immediately after a dosing event 
+- Sharp nitrite decrease and pH increase explain the slight inhibitory effects that were observed 
+:::
+
+
+## Biocidal Effects: Recovery Plots (Gompertz Growth Model) {transition="slide" transition-speed="slow" .smaller}
+![](images/FNA/recovery_plots_final.svg)
+
+::: {.absolute top="65%" left="5%"}
+```{=tex}
+\begin{equation}
+Y=Y_{0}+\left(A-Y_{0}\right)\left(e^{-e^{-\alpha\left(t-t_{0}\right)}}\right)
+\end{equation}
+```
+:::
+
+::: {.absolute top="75%" left="5%"}
+Y &ndash; H<sub>2</sub>S ratio (-) <br>
+Y<sub>0</sub> &ndash; residual H<sub>2</sub>S ratio (-)<br>
+A&ndash;amplitude (-) <br>
+$\alpha$&ndash; recovery rate (d<sup>&minus;1</sup>)<br>
+t<sub>0</sub>&ndash;time of maximum recovery rate (d) <br>
+:::
+
+:::{.absolute top="68%" left="50%"}
+- Little to no biocidal effects for concentrations 0.08 to 0.56  mg N L<sup>&minus;1</sup>)
+- Dosing under active mixing states are likely to improve that mass FNA into the sewer biofilm matrix
+- FNA concentration and exposure had the most influence on the recovery of SRB activity 
+
+:::
+
+
+## Biocidal Effects: Comparing the RT50 
+![](images/FNA/RT50_summary_final.svg)
+
+
+## Conclusion: FNA as an Alternative Countermeasure
+- Concentrations as high as 13.3 mg N L<sup>&minus;1</sup> were insufficient to achieve long-lasting inactivation of SRB activity
+- Longer exposure times and higher FNA concentrations have a stronger biocidal effect
+- The high nitrite consumption rates and pH increase all provide evidence of the survival of SRB in the presence of nitrite &rarr; an indication that the sewer biofilms are resistant to FNA  
+- Important to factor in the contribution N<sub>2</sub>O formation and release 
+- Pilot plant operation symptomatic of a system with severe sediment accumulation
+  - a key factor affecting SRB suppression
+  
+
+## Future Research: Outlook to FNA Investigations 
+- Future understanding of the dominating processes during  FNA treatment
+  - Microbiome composition – sequencing of bacterial DNA of biofilms obtained from the pressure sewer
+
+- To what extent does FNA contribute to N<sub>2</sub>O formation and release
+- Longer expoures times
+- Combining mechanical flushing followed by FNA treatment 
+
+:::{.absolute top="50%" left="10%" width="70%"}
+![](images/FNA%20outlook.png)
+:::
+
+
+
+## {background="#43464B" background-image="images/Corrosion_manhole.jpg"}
+:::{.absolute top="15%" left="40%"}
+Marzahn H<sub>2</sub>S Monitoring
+:::
+
+
+## Monitoring Points
+
+:::{.r-stack}
+![](images/outlet_marzahn_1.jpg){.absolute top="5%" left="0%" width="90%"}
+
+![](images/outlet_marzahn_2.jpg){.fragment .absolute top="10%" left="0%" width="30%"}
+
+![](images/outlet_marzahn_4.jpg){.fragment .absolute top="12%" left="55%" width="30%"}
+
+![](images/Marzahn%20Pumpstation.png){.fragment .absolute top="30%" left="15%" width="80%"}
+:::
+
+## Evaluation Criteria
+
+<br>
+<br>
+![](images/evaluation_criteria_table.png)
+
+
+## Upstream Nitrate Dosing of the Pressure Sewer (2020)
+
+![](images/upstream_nitrate%20dosing_2020.png)
+
+
+## Upstream FeCl<sub>2</sub> Dosing (2021)
+![](images/Upstream_iron_chloride_dosing.png)
+
+
+## Marzahn H<sub>2</sub>S Monitoring: Pump station Liquid Phase
+
+![](images/marzahn_inlet_h2sl.png)
+
+## Marzahn H<sub>2</sub>S Monitoring: Pump station Gas Phase
+
+![](images/marzahn_inlet_h2sg.png)
+
+
+## Additional Points for Installing Concrete Samples
+
+::::{.columns}
+:::{.column width="50%"}
+![](images/IMG_20190416_131155_resized_20190502_035712802.jpg)
+:::
+
+:::{.column width="50%"}
+![](images/IMG_20190416_131219_resized_20190502_035714419.jpg)
+:::
+::::
+
+## {background-color="black" background-image="images/IMG_20190415_100040.jpg"}
+:::{.absolute top="15%" left="40%"}
+THANK YOU
+:::
+
+## Why H<sub>2</sub>S Monitoring
+![](images/why_h2s_monitoring.png)
