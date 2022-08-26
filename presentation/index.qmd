@@ -15,6 +15,7 @@ format:
 from: markdown+emoji
 resources:
   - demo.pdf
+output: revealjs
 ---
 
 ## Housekeeping
