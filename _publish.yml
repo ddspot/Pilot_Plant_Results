@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 4b98ba98-8aac-4b23-ba46-a76ec99c4341
+      url: 'https://quartopub.com/sites/ddespot/pilot-plant-slides'

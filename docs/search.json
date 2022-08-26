@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "index.html#housekeeping",
+    "href": "index.html#housekeeping",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Housekeeping",
+    "text": "Housekeeping\n\nMotivation 👋\nResearch overview\nSupporting Pilot Plant Investigations\nMitigation Strategies for H2S in Sewers\nSome Background\nExample Chemical Dosing Study\nMarzahn and H2S Monitoring\n\n\n\nthe motivation of the pilot plant studies, why these investigations were made\nfor the overview of the pilot plant operation, show the timeline of the sewer pilot plant operation and the\nmotivation for my research - maybe consider adding 2-3 slides in this section"
+  },
+  {
+    "objectID": "index.html#motivation-save-our-sewers-from-h2s",
+    "href": "index.html#motivation-save-our-sewers-from-h2s",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Motivation: Save our Sewers from H2S",
+    "text": "Motivation: Save our Sewers from H2S\n\nSewer systems are a critical infrastructure asset\n\nCorrosion of concrete structures\nOdour nuisance\nHealth of utility workers\n\nAn increase in the severity of odour and corrosion problems worldwide\nCostly to repair corroded sewers and implement dosing stations 💶 💶 💶\nNecessity to prevent odour nuisance and safeguard workers from H2S\n\n\n\n\n\n\n\nNote\n\n\nCost-effective, climate-friendly strategies for H2S control"
+  },
+  {
+    "objectID": "index.html#research-overview",
+    "href": "index.html#research-overview",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Research Overview",
+    "text": "Research Overview\n\n\nTo investigate the intermittent application of a biological agent that deactivates(SRB) in sewer biofilms\nTo optomise nitrate dosing based on the dosing point location\nTo evaluate online liquid- and gas-phase H2S sensors for improving the monitoring of mitigation strategies"
+  },
+  {
+    "objectID": "index.html#supporting-pilot-plant-investigations",
+    "href": "index.html#supporting-pilot-plant-investigations",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Supporting Pilot Plant Investigations",
+    "text": "Supporting Pilot Plant Investigations\n\n\n\n\nResidence time distributions\nSulphide build-up in the pressure sewer\n\nKey parameters related to sulphide formation\nUnderstanding the influence of quiescent conditions\n\nAir flow in gravity sewers\n\n \n\nAdditional experiments\n\nOnsite sulphide measurements\nCalibration UV spectrometer (TriOS) – Multivariate calibration procedures\nWastewater biodegradability – COD Fractions"
+  },
+  {
+    "objectID": "index.html#focal-point-mitigation-strategies-for-h2s-in-sewers",
+    "href": "index.html#focal-point-mitigation-strategies-for-h2s-in-sewers",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Focal Point: Mitigation Strategies for H2S in Sewers",
+    "text": "Focal Point: Mitigation Strategies for H2S in Sewers\n\n\n\n\n\n\nN-based salts\n\nNitrite and Free Nitrous Acid to examine their biocidal effects on SRB activity\nCalcium Nitrate vs Iron Nitrate\nLimited Downstream nitrate dosing\nImpact of nitrate dosing on connecting gravity sewers\n\nOptimising Upstream Ferrous Chloride Dosing"
+  },
+  {
+    "objectID": "index.html#background-sewer-sytems-components-and-interfaces",
+    "href": "index.html#background-sewer-sytems-components-and-interfaces",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Background: Sewer Sytems Components and Interfaces",
+    "text": "Background: Sewer Sytems Components and Interfaces"
+  },
+  {
+    "objectID": "index.html#background-free-nitrous-acid",
+    "href": "index.html#background-free-nitrous-acid",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Background: Free Nitrous Acid",
+    "text": "Background: Free Nitrous Acid\n\n\n\nFNA → produced from nitrite at acidic conditions (a weak monobasic acid)\nOnly reported studies in Austrialia and USA\n\nStrong biocidal effects → complete suppression sulphide and methane production\nDosed in intervals e.g every 10 days\nCheap alternative → 0.028€/m3 - 0.34€/m3\n\n\n\n\nAntimicrobial mechanisms of FNA treatment for sulphide control\n\nInhibition of bacterial growth\nShut down of protein synthesis\nOxidative stress \n\n\n\nMore info: FNA Publication"
+  },
+  {
+    "objectID": "index.html#overview-of-the-fna-trials",
+    "href": "index.html#overview-of-the-fna-trials",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Overview of the FNA trials",
+    "text": "Overview of the FNA trials\n\n\n\n\n\n\n\n\n\n\n\nTrial No.\nFNA Dosed(mg-N L−1)\nExp *. (h)\nAverage Temperature\nPumping Schedule\nAim of the Trial\n\n\n\n\n1\n0.08\n12\n16.8 °C\nNormal, 7 min\nLow dosage and short exposure time\n\n\n2\n0.11\n12\n17.6 °C\nNormal, 7 min\nLow dosage and short exposure time\n\n\n3\n0.11\n5\n16.0 °C\nNormal, 7 min\nVery short exposure time\n\n\n4\n0.32\n12\n18.3 °C\nNormal, 7 min\nIncreased concentration\n\n\n5\n0.56\n12\n17.9 °C\nNormal, 7 min\nIncreased concentration\n\n\n6\n0.30\n12\n16.3 °C\n14 min, every other cycle\nDifferent pumping schedule to increase exposure\n\n\n7\n13.32\n24\n14.4 °C\nNormal, 7 min\nFurther increased concentration\n\n\n8\n0.79\n24\n14.4 °C\n14 min every 3 h\nDifferent pumping schedule to increase exposure\n\n\n9\n0.25\n24\n9.6 °C\n3–4 min every hour\nDifferent pumping schedule to increase exposure"
+  },
+  {
+    "objectID": "index.html#experimental-setup",
+    "href": "index.html#experimental-setup",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Experimental Setup",
+    "text": "Experimental Setup\n\n\n\n\n\nNitrite and HCL was dosed simultaneously at the inlet\nHCL demand based on acid capacity and titration curves\n\n4.9 mmol L−1 H+ → pH of 6\n\nIntermittent dosing\n\n\\[\\begin{equation}\n\\mathrm{C}_{\\mathrm{HNO}_{2}}=\\frac{47 \\mathrm{~g} / \\mathrm{mol}}{14 \\mathrm{~g} / \\mathrm{mol}} \\cdot \\frac{\\mathrm{C}_{\\mathrm{NO}_{2}-\\mathrm{N}}}{\\mathrm{K}_{\\mathrm{a}} \\cdot 10^{\\mathrm{pH}}} \\text { with } \\mathrm{K}_{\\mathrm{a}}=\\mathrm{e}^{-2300 /\\left(273+\\mathrm{T}\\left({ }^{\\circ} \\mathrm{C}\\right)\\right)}\n\\end{equation}\n\\]\n\n\n\n\n\n\n\n\n\n\n\nFlow rate: 4.5 m3 h−1 →  0.16 ms−1"
+  },
+  {
+    "objectID": "index.html#baseline-sulphide-monitoring",
+    "href": "index.html#baseline-sulphide-monitoring",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Baseline Sulphide Monitoring",
+    "text": "Baseline Sulphide Monitoring"
+  },
+  {
+    "objectID": "index.html#an-example-of-fna-dosing-event",
+    "href": "index.html#an-example-of-fna-dosing-event",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "An Example of FNA Dosing Event",
+    "text": "An Example of FNA Dosing Event\n\n\n\n\n \n\nDissolved sulphide <0.3 mg L−1\nIn some cases H2S in the gas phase > 5 ppm\nOccurrence of heterotrophic denitrification\n\nincrease pH\nreduction in nitrite concentration\nhigher COD removal rates\n\nsharp nitrite reduction and pH increase → lower FNA concentration\n\n\n\n\nThis figure illustrates the H2S liquid and gas phase profiles of an FNA dosing trial. The red lines mark the start and stop of the FNA treatment. - For some trials, it was found that h2s gas concentration exceeded 5 ppm even when the dissolved sulphide concentration was <0,3 mg/L. this is due to pH lowering during the dosing event, which enhances the mass transfer from the bulk wastewater to the sewer atmosphere → which can still contribute to H2S release during the treatment period - Occurrence of heterotrophic denitrification (evidence based on reduction nitrite concentration, increase in ph (0,3 to 1,3) pH units and higher removal rates of COD immediately after a dosing event - Sharp nitrite decrease and pH increase explain the slight inhibitory effects that were observed"
+  },
+  {
+    "objectID": "index.html#biocidal-effects-recovery-plots-gompertz-growth-model",
+    "href": "index.html#biocidal-effects-recovery-plots-gompertz-growth-model",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Biocidal Effects: Recovery Plots (Gompertz Growth Model)",
+    "text": "Biocidal Effects: Recovery Plots (Gompertz Growth Model)\n\n\n\\[\\begin{equation}\nY=Y_{0}+\\left(A-Y_{0}\\right)\\left(e^{-e^{-\\alpha\\left(t-t_{0}\\right)}}\\right)\n\\end{equation}\\]\n\n\nY – H2S ratio (-)  Y0 – residual H2S ratio (-) A–amplitude (-)  \\(\\alpha\\)– recovery rate (d−1) t0–time of maximum recovery rate (d) \n\n\n\nLittle to no biocidal effects for concentrations 0.08 to 0.56 mg N L−1)\nDosing under active mixing states are likely to improve that mass FNA into the sewer biofilm matrix\nFNA concentration and exposure had the most influence on the recovery of SRB activity"
+  },
+  {
+    "objectID": "index.html#biocidal-effects-comparing-the-rt50",
+    "href": "index.html#biocidal-effects-comparing-the-rt50",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Biocidal Effects: Comparing the RT50",
+    "text": "Biocidal Effects: Comparing the RT50"
+  },
+  {
+    "objectID": "index.html#conclusion-fna-as-an-alternative-countermeasure",
+    "href": "index.html#conclusion-fna-as-an-alternative-countermeasure",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Conclusion: FNA as an Alternative Countermeasure",
+    "text": "Conclusion: FNA as an Alternative Countermeasure\n\nConcentrations as high as 13.3 mg N L−1 were insufficient to achieve long-lasting inactivation of SRB activity\nLonger exposure times and higher FNA concentrations have a stronger biocidal effect\nThe high nitrite consumption rates and pH increase all provide evidence of the survival of SRB in the presence of nitrite → an indication that the sewer biofilms are resistant to FNA\n\nImportant to factor in the contribution N2O formation and release\nPilot plant operation symptomatic of a system with severe sediment accumulation\n\na key factor affecting SRB suppression"
+  },
+  {
+    "objectID": "index.html#future-research-outlook-to-fna-investigations",
+    "href": "index.html#future-research-outlook-to-fna-investigations",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Future Research: Outlook to FNA Investigations",
+    "text": "Future Research: Outlook to FNA Investigations\n\nFuture understanding of the dominating processes during FNA treatment\n\nMicrobiome composition – sequencing of bacterial DNA of biofilms obtained from the pressure sewer\n\nTo what extent does FNA contribute to N2O formation and release\nLonger expoures times\nCombining mechanical flushing followed by FNA treatment"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "",
+    "text": "Marzahn H2S Monitoring"
+  },
+  {
+    "objectID": "index.html#monitoring-points",
+    "href": "index.html#monitoring-points",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Monitoring Points",
+    "text": "Monitoring Points"
+  },
+  {
+    "objectID": "index.html#evaluation-criteria",
+    "href": "index.html#evaluation-criteria",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Evaluation Criteria",
+    "text": "Evaluation Criteria"
+  },
+  {
+    "objectID": "index.html#upstream-nitrate-dosing-of-the-pressure-sewer-2020",
+    "href": "index.html#upstream-nitrate-dosing-of-the-pressure-sewer-2020",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Upstream Nitrate Dosing of the Pressure Sewer (2020)",
+    "text": "Upstream Nitrate Dosing of the Pressure Sewer (2020)"
+  },
+  {
+    "objectID": "index.html#upstream-fecl2-dosing-2021",
+    "href": "index.html#upstream-fecl2-dosing-2021",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Upstream FeCl2 Dosing (2021)",
+    "text": "Upstream FeCl2 Dosing (2021)"
+  },
+  {
+    "objectID": "index.html#marzahn-h2s-monitoring-pump-station-liquid-phase",
+    "href": "index.html#marzahn-h2s-monitoring-pump-station-liquid-phase",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Marzahn H2S Monitoring: Pump station Liquid Phase",
+    "text": "Marzahn H2S Monitoring: Pump station Liquid Phase"
+  },
+  {
+    "objectID": "index.html#marzahn-h2s-monitoring-pump-station-gas-phase",
+    "href": "index.html#marzahn-h2s-monitoring-pump-station-gas-phase",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Marzahn H2S Monitoring: Pump station Gas Phase",
+    "text": "Marzahn H2S Monitoring: Pump station Gas Phase"
+  },
+  {
+    "objectID": "index.html#additional-points-for-installing-concrete-samples",
+    "href": "index.html#additional-points-for-installing-concrete-samples",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Additional Points for Installing Concrete Samples",
+    "text": "Additional Points for Installing Concrete Samples"
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "",
+    "text": "THANK YOU"
+  },
+  {
+    "objectID": "index.html#why-h2s-monitoring",
+    "href": "index.html#why-h2s-monitoring",
+    "title": "Mitigation Strategies for Odour and Corrosion in Sewer Systems",
+    "section": "Why H2S Monitoring",
+    "text": "Why H2S Monitoring\n\n\n\n\nhttps://www.siwawi.tu-berlin.de/"
+  }
+]
