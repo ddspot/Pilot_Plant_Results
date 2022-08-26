@@ -15,6 +15,9 @@ format:
 from: markdown+emoji
 resources:
   - demo.pdf
+project:
+    type: website
+    output-dir: docs
 ---
 
 ## Housekeeping
