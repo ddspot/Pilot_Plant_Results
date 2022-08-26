@@ -196,3 +196,5 @@ tmtagsHistory
 ######################
 # *.svg
 
+
+/.quarto/
