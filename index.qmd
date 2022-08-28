@@ -52,7 +52,7 @@ Cost-effective, climate-friendly strategies for H<sub>2</sub>S control
 
 ## Research Overview {.smaller}
 
-![](images/Fig%201-1_Thesis_structure.svg)
+![](images/Thesis_structure.svg)
 
  -  To investigate the intermittent application of a biological agent that deactivates(SRB) in sewer biofilms 
  -  To optomise nitrate dosing  based on the dosing point location 
