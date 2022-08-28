@@ -6,16 +6,12 @@ format:
     revealjs: 
         slide-number: true
         chalkboard: true
-        buttons: false
         preview-links: auto
         logo: images/TU+sww.jpg
         css: styles.css
         footer: <https://www.siwawi.tu-berlin.de/>
         theme: mytheme.scss
 from: markdown+emoji
-resources:
-  - demo.pdf
-output: revealjs
 ---
 
 ## Housekeeping
