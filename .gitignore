@@ -13,7 +13,7 @@ __pycache__/
 env/
 build/
 develop-eggs/
-dist/
+# dist/
 downloads/
 eggs/
 .eggs/
@@ -198,3 +198,6 @@ tmtagsHistory
 
 
 .quarto/
+
+/.quarto/
+/_site/
